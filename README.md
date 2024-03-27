@@ -1,6 +1,6 @@
 # KP Employee Performance
 
-## Problem Statement:
+## Problem Statement
 
 KP Company seeks to analyze the performance of its employees based on key performance indicators (KPIs) such as Percentage of Response Answer, Alpo Rating out of 5, and CV percentage. The company wants to monitor these metrics on a monthly basis to ensure that employees are meeting required targets and delivering satisfactory service to customers.
 
@@ -42,6 +42,6 @@ Utilized the table to evaluate individual employee performance against targets, 
 
 
 
-## Conclusion:
+## Conclusion
 The dashboard provides KP Company with valuable insights into employee performance based on key metrics and targets. By regularly monitoring these KPIs, the company can identify areas for improvement, optimize resource allocation, and ensure consistent delivery of high-quality service to customers. Additionally, the ability to filter by managers and employees allows for tailored analysis and targeted interventions, contributing to overall organizational effectiveness and customer satisfaction.
 
